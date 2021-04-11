@@ -1,4 +1,5 @@
-# manifold-net
+# siloed web
+
 A protocol for dynamic communication between websites
 
 ```bash
