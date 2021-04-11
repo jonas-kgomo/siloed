@@ -11,3 +11,12 @@ A protocol for dynamic communication between websites
 server-side 
 	web A <- server -> web B
 ```
+
+## React
+
+suppose you have `component A` in web A and `component B` in web B. 
+If both sites have `siloed` installed, they can interchange `components A -> B` 
+
+## Use-case
+
+`Company A` has an ad that it wants to share with `company B`
