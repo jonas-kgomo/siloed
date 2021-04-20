@@ -1,6 +1,7 @@
 Siloed web
 
-A protocol for dynamic communication between websites. A Siloed component is a glorified iframe with dynamic properties
+A protocol for dynamic communication between websites. 
+A Siloed component is a glorified iframe with dynamic properties
 
 ```bash
  npm install siloed 
@@ -15,6 +16,7 @@ server-side
 ## React
 
 suppose you have `component A` in web A and `component B` in web B. 
+
 If both sites have `siloed` installed, they can interchange `components A -> B` 
 
 ## Use-case
