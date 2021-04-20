@@ -1,6 +1,8 @@
-# siloed web
+Siloed web
 
 A protocol for dynamic communication between websites
+
+### Siloed component is a glorified iframe with dynamic properties
 
 ```bash
  npm install siloed 
